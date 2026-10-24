@@ -167,7 +167,7 @@ MonoBehaviour:
   m_LightOrder: 0
   m_AlphaBlendOnOverlap: 0
   m_OverlapOperation: 0
-  m_NormalMapDistance: 18
+  m_NormalMapDistance: 3
   m_NormalMapQuality: 0
   m_UseNormalMap: 0
   m_ShadowsEnabled: 1
@@ -1152,7 +1152,7 @@ MonoBehaviour:
   m_LightOrder: 0
   m_AlphaBlendOnOverlap: 0
   m_OverlapOperation: 0
-  m_NormalMapDistance: 18
+  m_NormalMapDistance: 3
   m_NormalMapQuality: 0
   m_UseNormalMap: 0
   m_ShadowsEnabled: 1
